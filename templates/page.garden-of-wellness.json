@@ -99,9 +99,9 @@
           "type": "button_item",
           "settings": {
             "open_in_new_tab": false,
-            "button_label": "SwimVive 360",
+            "button_label": "GOW Swim Care",
             "button_link": "shopify://collections/gow-swim-care",
-            "icon": "check"
+            "icon": "arrow-right"
           }
         },
         "button_item_tKN3gm": {
@@ -143,8 +143,8 @@
         "padding_top": 20,
         "padding_bottom": 20,
         "custom_image": "shopify://shop_images/GoWshop_GOW_LOGO_700x282-05.webp",
-        "custom_image_width": 300,
-        "custom_image_margin_right": 230,
+        "custom_image_width": 290,
+        "custom_image_margin_right": 50,
         "custom_image_link": "shopify://pages/garden-of-wellness"
       }
     },
