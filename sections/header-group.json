@@ -215,11 +215,13 @@
         "other_custom_AV4eLH": {
           "type": "other_custom",
           "settings": {
-            "menu_title_child": "Other",
-            "menu_links": "other",
+            "menu_title_child": "SwimVive",
+            "menu_links": "swimvive",
             "percent-menu-left": 55,
+            "height-banner-menu": 522,
             "color_scheme": "scheme-1",
-            "image_ratio": "adapt",
+            "image": "shopify://shop_images/GoWshop_megamenu_3.webp",
+            "image_ratio": "1/1",
             "subheading": "",
             "heading": "Card Heading",
             "highlight_style": "none",
