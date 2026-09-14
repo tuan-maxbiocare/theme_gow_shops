@@ -108,9 +108,9 @@
           "type": "button_item",
           "settings": {
             "open_in_new_tab": false,
-            "button_label": "Swim Care",
+            "button_label": "Salvarity Swim Care",
             "button_link": "shopify://collections/salvaity-swim-care",
-            "icon": "check"
+            "icon": "arrow-right"
           }
         },
         "button_item_TqeMqX": {
@@ -154,7 +154,7 @@
         "padding_bottom": 20,
         "custom_image": "shopify://shop_images/GoWshop_SAL_LOGO_700x282-03.webp",
         "custom_image_width": 250,
-        "custom_image_margin_right": 200,
+        "custom_image_margin_right": 50,
         "custom_image_link": "shopify://pages/salvarity"
       }
     },
