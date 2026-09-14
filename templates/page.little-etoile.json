@@ -118,7 +118,7 @@
           "settings": {
             "open_in_new_tab": false,
             "button_label": "Swim Care",
-            "button_link": "shopify://pages/swim-care",
+            "button_link": "shopify://collections/little-etoile-swim-care",
             "icon": "arrow-right"
           }
         },
